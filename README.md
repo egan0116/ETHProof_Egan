@@ -10,8 +10,6 @@ I made this program as my final project submission for ETHProof: Getting Started
 
 ### Executing program
 
-* How to run the program
-
 - Copy and paste the code below into your IDE (Preferably, use [Remix](https://remix.ethereum.org/) and create an account for less hassle in installing plug-ins)
 - Save the file with the extension ".sol"
 - Compile and Deploy the Program
