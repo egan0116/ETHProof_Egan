@@ -4,7 +4,7 @@ A simple program that burns and mints tokens made in Solidity
 
 ## Description
 
-I made this program as my final project submission for ETHProof: Getting Started with Solidity. It burns and mints tokens named "CatCoin" referencing my previous JSProof final project. 
+I made this program as my final project submission for ETHProof: Getting Started with Solidity. It burns and mints tokens named "CatCoin" referencing my previous JSProof final project of minting Cat NFT's. 
 
 ## Getting Started
 
